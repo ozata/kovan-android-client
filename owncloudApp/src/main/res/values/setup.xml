@@ -60,7 +60,7 @@
 
     <!-- Help, imprint and feedback -->
     <bool name="help_enabled">true</bool>
-    <bool name="sync_calendar_contacts_enabled">true</bool>
+    <bool name="sync_calendar_contacts_enabled">false</bool>
     <bool name="imprint_enabled">true</bool>
     <bool name="recommend_enabled">false</bool>
     <bool name="feedback_enabled">false</bool>
